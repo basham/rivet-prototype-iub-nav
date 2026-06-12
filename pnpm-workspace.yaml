@@ -1,0 +1,6 @@
+blockExoticSubdeps: false
+overrides:
+  "@rivet-iu/tokens": "github:indiana-university/rivet-source#v3-prepare-script&path:/packages/tokens"
+strictDepBuilds: false
+packages:
+  - "."
